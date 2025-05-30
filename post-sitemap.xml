@@ -2,15 +2,25 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/episodes/</loc>
-		<lastmod>2025-05-29T12:07:22+00:00</lastmod>
+		<lastmod>2025-05-30T06:38:59+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mediamothership.au/hello-world/</loc>
 		<lastmod>2025-05-28T05:27:58+00:00</lastmod>
 	</url>
 	<url>
+		<loc>https://mediamothership.au/unlocking-nothing-behind-the-door/</loc>
+		<lastmod>2025-05-30T06:03:42+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/ep102.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/ccx05wm7tze.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mediamothership.au/pigs-and-perceptions/</loc>
-		<lastmod>2025-05-29T12:07:22+00:00</lastmod>
+		<lastmod>2025-05-30T06:38:59+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/104-thumbnail.png</image:loc>
 		</image:image>
