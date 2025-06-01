@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/episodes/</loc>
-		<lastmod>2025-06-01T09:06:29+00:00</lastmod>
+		<lastmod>2025-06-01T11:38:29+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mediamothership.au/hello-world/</loc>
@@ -47,6 +47,13 @@
 		<lastmod>2025-06-01T09:06:29+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/107-SQUARE.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mediamothership.au/empathy-for-the-villain-crafting-memorable-evil-characters/</loc>
+		<lastmod>2025-06-01T11:38:29+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/108-SQUARE.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
