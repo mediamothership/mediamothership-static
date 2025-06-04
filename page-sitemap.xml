@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/</loc>
-		<lastmod>2025-06-04T01:10:18+00:00</lastmod>
+		<lastmod>2025-06-04T04:47:28+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/Transparent-Edge-Media-Mothership-Bottom-Transparent.png</image:loc>
 		</image:image>
@@ -50,31 +50,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mediamothership.au/manga-dreaming-thesis/</loc>
-		<lastmod>2025-06-03T07:01:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Intron-Depot-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Gits-01.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/ad-police-manga-1.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/bgc.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Alita-anime.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/dvd_cyber_city_oedo_808_vhs_cover_1_lbx.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/md-front-release-32302-1571209756-323.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mediamothership.au/episode-archive/</loc>
 		<lastmod>2025-06-04T00:48:06+00:00</lastmod>
 	</url>
@@ -95,6 +70,31 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/PXL_20240416_101304885-scaled.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mediamothership.au/manga-dreaming-thesis/</loc>
+		<lastmod>2025-06-04T05:07:01+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Intron-Depot-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Gits-01.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/ad-police-manga-1.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/bgc.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Alita-anime.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/dvd_cyber_city_oedo_808_vhs_cover_1_lbx.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/md-front-release-32302-1571209756-323.jpeg</image:loc>
 		</image:image>
 	</url>
 </urlset>
