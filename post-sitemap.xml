@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/blog/</loc>
-		<lastmod>2025-06-05T11:00:34+00:00</lastmod>
+		<lastmod>2025-06-05T11:15:05+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mediamothership.au/hello-world/</loc>
@@ -65,7 +65,7 @@
 	</url>
 	<url>
 		<loc>https://mediamothership.au/cultural-battles-tiananmen-helldivers-2-and-the-anime-revolution/</loc>
-		<lastmod>2025-06-05T11:00:34+00:00</lastmod>
+		<lastmod>2025-06-05T11:15:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Square-110.png</image:loc>
 		</image:image>
