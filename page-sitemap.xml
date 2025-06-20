@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/</loc>
-		<lastmod>2025-06-04T04:47:28+00:00</lastmod>
+		<lastmod>2025-06-18T07:40:35+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/Transparent-Edge-Media-Mothership-Bottom-Transparent.png</image:loc>
 		</image:image>
@@ -17,6 +17,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/IMG_20230310_175713-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Hons-Thesis-Cover-Bright.png</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/EDGE-RADIO-1.png</image:loc>
@@ -54,22 +57,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mediamothership.au/publications/</loc>
-		<lastmod>2025-06-04T07:08:43+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/IMG_0085.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/lk8-gxdqoby.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/nul9apggvgm.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/xjl8sfhhi-g.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mediamothership.au/podcast/</loc>
 		<lastmod>2025-06-05T11:11:29+00:00</lastmod>
 		<image:image>
@@ -89,8 +76,27 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://mediamothership.au/publications/</loc>
+		<lastmod>2025-06-18T07:34:41+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/IMG_0085.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/lk8-gxdqoby.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/nul9apggvgm.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/05/xjl8sfhhi-g.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Hons-Thesis-Cover-Bright.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://mediamothership.au/manga-dreaming-thesis/</loc>
-		<lastmod>2025-06-17T09:40:07+00:00</lastmod>
+		<lastmod>2025-06-20T07:20:46+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/Hons-Thesis-Cover-Bright.png</image:loc>
 		</image:image>
@@ -162,6 +168,12 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/urotsukidoji.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/ghost-in-the-shell-2.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/06/alita-01.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
