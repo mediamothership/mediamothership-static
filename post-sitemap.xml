@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/blog/</loc>
-		<lastmod>2025-07-18T08:11:55+00:00</lastmod>
+		<lastmod>2025-07-25T07:20:12+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mediamothership.au/hello-world/</loc>
@@ -125,6 +125,13 @@
 		<lastmod>2025-07-18T08:11:55+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2025/07/My-Square-Posts-4-Square-Post-113.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mediamothership.au/a-critical-look-at-the-shadows-the-temple-bells-of-neban/</loc>
+		<lastmod>2025-07-25T07:20:12+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2025/07/My-Square-Posts-5-Square-Post-114.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
