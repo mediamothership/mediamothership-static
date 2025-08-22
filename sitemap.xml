@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mediamothership.au/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://mediamothership.au/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
 		<loc>https://mediamothership.au/post-sitemap.xml</loc>
-		<lastmod>2025-06-26T11:14:22+00:00</lastmod>
+		<lastmod>2025-08-22T09:19:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://mediamothership.au/page-sitemap.xml</loc>
-		<lastmod>2025-06-24T07:55:49+00:00</lastmod>
+		<lastmod>2025-07-28T04:59:42+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://mediamothership.au/category-sitemap.xml</loc>
-		<lastmod>2025-06-26T11:14:22+00:00</lastmod>
+		<lastmod>2025-08-22T09:19:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://mediamothership.au/post_tag-sitemap.xml</loc>
-		<lastmod>2025-06-26T11:14:22+00:00</lastmod>
+		<lastmod>2025-08-22T09:19:30+00:00</lastmod>
 	</sitemap>
 	<sitemap>
 		<loc>https://mediamothership.au/author-sitemap.xml</loc>
