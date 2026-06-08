@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/blog/</loc>
-		<lastmod>2026-06-08T06:56:08+00:00</lastmod>
+		<lastmod>2026-06-08T07:05:09+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mediamothership.au/hello-world/</loc>
@@ -326,13 +326,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mediamothership.au/ep-153-show-notes/</loc>
-		<lastmod>2026-06-03T08:13:48+00:00</lastmod>
-		<image:image>
-			<image:loc>https://mediamothership.au/wp-content/uploads/2026/06/Edge-Media-Mothership-Bottom-Black.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://mediamothership.au/the-backrooms-2026-the-horror-of-becoming-your-own-monster/</loc>
 		<lastmod>2026-06-08T06:56:08+00:00</lastmod>
 		<image:image>
@@ -367,6 +360,13 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2026/06/1f94c0724c379c7d42b329314cf7e065.webp</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mediamothership.au/ep-153-show-notes/</loc>
+		<lastmod>2026-06-08T07:05:09+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2026/06/square-153.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
