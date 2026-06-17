@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/blog/</loc>
-		<lastmod>2026-06-08T07:05:09+00:00</lastmod>
+		<lastmod>2026-06-17T10:08:58+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mediamothership.au/hello-world/</loc>
@@ -367,6 +367,13 @@
 		<lastmod>2026-06-08T07:05:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2026/06/square-153.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mediamothership.au/episode-154/</loc>
+		<lastmod>2026-06-17T10:08:58+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2026/06/722752958_10241190160478435_6219824299064403828_n.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>
