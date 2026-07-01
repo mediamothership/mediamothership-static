@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/blog/</loc>
-		<lastmod>2026-06-24T06:39:37+00:00</lastmod>
+		<lastmod>2026-07-01T07:48:32+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mediamothership.au/hello-world/</loc>
@@ -377,10 +377,17 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://mediamothership.au/ep-155-how-digital-culture-is-reshaping-reality-authority-and-meaning/</loc>
-		<lastmod>2026-06-24T06:39:37+00:00</lastmod>
+		<loc>https://mediamothership.au/episode-156-who-creates-meaning-humans-ai-audiences-or-accidents/</loc>
+		<lastmod>2026-07-01T07:48:09+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2026/06/Edge-Media-Mothership-Bottom-Black.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mediamothership.au/ep-155-how-digital-culture-is-reshaping-reality-authority-and-meaning/</loc>
+		<lastmod>2026-07-01T07:48:32+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2026/06/155-square.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
