@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://mediamothership.au/blog/</loc>
-		<lastmod>2026-08-03T11:36:05+00:00</lastmod>
+		<lastmod>2026-08-05T11:07:48+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://mediamothership.au/hello-world/</loc>
@@ -409,6 +409,13 @@
 		<lastmod>2026-08-03T11:36:05+00:00</lastmod>
 		<image:image>
 			<image:loc>https://mediamothership.au/wp-content/uploads/2026/07/158-square.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://mediamothership.au/how-audiences-shape-media-episode-159/</loc>
+		<lastmod>2026-08-05T11:07:48+00:00</lastmod>
+		<image:image>
+			<image:loc>https://mediamothership.au/wp-content/uploads/2026/06/Edge-Media-Mothership-Bottom-Black.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
